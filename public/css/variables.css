@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #007BFF;
+    --BlueThemeBackgroundColor: #001F3F;
+    --BlueThemeBorderColor: #004080;
+    --BlueThemeBorderColor2: #1A6DAF;
+    --BlueThemeBoxColor: #323232;
+    --BlueThemeFontColor: #ffffff;
+    --BlueThemeFontColor2: #B0B0B0;
+    --BlueThemeInputColor: #002E5A;
+    --BlueThemeInputColorHover: #001F3F;
+    --BlueThemeIconBorder: #ffffff;
+    --BlueThemeFollowColor: #0082D6;
+}

@@ -1,0 +1,30 @@
+@media screen and (min-width:992px){
+    .navbar .container-fluid, .navbar-expand-lg .navbar-collapse, .navbar-expand-lg .navbar-nav{
+        flex-direction:column;
+        align-items:flex-start;
+        height:100vh;
+    }
+    .navbar{
+        width: 25%;
+        height: 1380px;
+        align-items: flex-start;
+    }
+    .navbar-brand {
+        color:#fff;
+        margin-left: 0.5rem;
+        font-weight:bold;
+        border-bottom: 2px solid #464646;
+    }
+}
+
+.navbar .navbar-nav .nav-link{
+    color: #fff;
+    font-size: 1.1em;
+}
+
+.nav-item .nav-link:hover
+{
+    color:var(--BlueThemeBorderColor2);
+}
+
+
